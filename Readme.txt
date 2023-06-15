@@ -1,2 +1,5 @@
+//comandos crear proyecto gin
 
-prueba
+go mod init nameOfProyect
+
+go get github.com/gin-gonic/gin
